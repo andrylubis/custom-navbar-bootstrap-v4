@@ -1,0 +1,15 @@
+/* merubah warna background menjadi abu2*/
+.nav {
+	background-color: #50485B;
+}
+
+/* merubah warna active background menjadi pink*/
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: #D73E6B;
+}
+
+/* merubah text color menjadi warna putih */
+.nav-pills .nav-link {
+  color: white;
+}
